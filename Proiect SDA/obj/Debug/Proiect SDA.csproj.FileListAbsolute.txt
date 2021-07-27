@@ -1,0 +1,121 @@
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\Proiect SDA.exe.config
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\Proiect SDA.exe
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\Proiect SDA.pdb
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\obj\Debug\Proiect SDA.csprojAssemblyReference.cache
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\obj\Debug\Proiect_SDA.Form1.resources
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\obj\Debug\Proiect_SDA.Properties.Resources.resources
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\obj\Debug\Proiect SDA.csproj.GenerateResource.cache
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\obj\Debug\Proiect SDA.exe
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\obj\Debug\Proiect SDA.pdb
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\Microsoft.CodeAnalysis.dll
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\System.Buffers.dll
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\System.Collections.Immutable.dll
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\System.Memory.dll
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\System.Numerics.Vectors.dll
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\System.Reflection.Metadata.dll
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\Microsoft.CodeAnalysis.pdb
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\Microsoft.CodeAnalysis.xml
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\System.Buffers.xml
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\System.Collections.Immutable.xml
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\System.Memory.xml
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\System.Numerics.Vectors.xml
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\System.Reflection.Metadata.xml
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\de\Microsoft.CodeAnalysis.resources.dll
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\es\Microsoft.CodeAnalysis.resources.dll
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\it\Microsoft.CodeAnalysis.resources.dll
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\obj\Debug\Proiect SDA.csproj.CopyComplete
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\Priority Queue.dll
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\Priority Queue.pdb
+D:\Facultate\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\Priority Queue.xml
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\Proiect SDA.exe.config
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\Proiect SDA.exe
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\Proiect SDA.pdb
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\Microsoft.CodeAnalysis.dll
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\Priority Queue.dll
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\System.Buffers.dll
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\System.Collections.Immutable.dll
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\System.Memory.dll
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\System.Numerics.Vectors.dll
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\System.Reflection.Metadata.dll
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\System.Text.Encoding.CodePages.dll
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\Microsoft.CodeAnalysis.pdb
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\Microsoft.CodeAnalysis.xml
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\Priority Queue.pdb
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\Priority Queue.xml
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\System.Buffers.xml
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\System.Collections.Immutable.xml
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\System.Memory.xml
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\System.Numerics.Vectors.xml
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\System.Reflection.Metadata.xml
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\de\Microsoft.CodeAnalysis.resources.dll
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\es\Microsoft.CodeAnalysis.resources.dll
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\it\Microsoft.CodeAnalysis.resources.dll
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\obj\Debug\Proiect SDA.csproj.AssemblyReference.cache
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\obj\Debug\Proiect_SDA.Form1.resources
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\obj\Debug\Proiect_SDA.Properties.Resources.resources
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\obj\Debug\Proiect SDA.csproj.GenerateResource.cache
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\obj\Debug\Proiect SDA.csproj.CoreCompileInputs.cache
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\obj\Debug\Proiect SDA.csproj.CopyComplete
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\obj\Debug\Proiect SDA.exe
+G:\Facultate\Cursuri\An 2 Sem 1\Structuri de date avansate\Proiect\Proiect SDA\Proiect SDA\obj\Debug\Proiect SDA.pdb
